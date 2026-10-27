@@ -121,7 +121,7 @@ const navItems = [
         <div class="flex shrink-0 items-center gap-2 sm:gap-3">
           <a
             href="#contact"
-            class="hidden items-center justify-center gap-2 rounded-full bg-[#173D30] px-5 py-3 text-sm font-bold text-[#FFF9EA] shadow-[0_5px_15px_rgba(23,61,48,0.13)] transition duration-300 hover:-translate-y-0.5 hover:bg-[#285442] sm:inline-flex lg:px-6"
+            class="hidden items-center justify-center gap-2 rounded-full px-5 py-3 text-sm font-bold text-white shadow-[0_5px_15px_rgba(23,61,48,0.13)] transition duration-300 hover:-translate-y-0.5 sm:inline-flex lg:px-6"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -272,7 +272,7 @@ const navItems = [
           <div class="mt-8 flex flex-wrap gap-3 sm:gap-4">
             <a
               href="#menu"
-              class="inline-flex items-center justify-center gap-3 rounded-xl bg-[#294431] px-6 py-4 text-sm font-bold text-white transition hover:-translate-y-0.5 hover:bg-[#3B5B40] sm:px-8"
+              class="inline-flex items-center justify-center gap-3 rounded-xl px-6 py-4 text-sm font-bold text-white transition hover:-translate-y-0.5 bg-[#A77943] sm:px-8"
             >
               منوی کافه
               <span aria-hidden="true">←</span>

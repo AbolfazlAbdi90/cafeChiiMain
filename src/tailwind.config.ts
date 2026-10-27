@@ -1,18 +1,13 @@
-/** @type {import('tailwindcss').Config} */
-module.exports = {
-  content: [
-    "./index.html",
-    "./src/**/*.{vue,js,ts,jsx,tsx}",
-  ],
+import type { Config } from 'tailwindcss'
+
+export default {
   theme: {
     extend: {
-      // فونت‌های خود را اینجا اضافه کنید
       fontFamily: {
-        // نام کلاس: ['نام فونت در CSS', 'فونت جایگزین']
-        'iransans': ['IRANSans', 'sans-serif'],
-        'pinar': ['Pinar', 'sans-serif'],
+        iransans: ['IRANSans', 'sans-serif'],
+        pinar: ['Pinar', 'sans-serif'],
       },
     },
   },
   plugins: [],
-}
+} satisfies Config

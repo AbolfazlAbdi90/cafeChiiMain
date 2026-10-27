@@ -121,7 +121,7 @@ const navItems = [
         <div class="flex shrink-0 items-center gap-2 sm:gap-3">
           <a
             href="#contact"
-            class="hidden items-center justify-center gap-2 rounded-full px-5 py-3 text-sm font-bold text-white shadow-[0_5px_15px_rgba(23,61,48,0.13)] transition duration-300 hover:-translate-y-0.5 sm:inline-flex lg:px-6"
+            class="hidden items-center justify-center gap-2 bg-[#A77943] rounded-full px-5 py-3 text-sm font-bold text-white shadow-[0_5px_15px_rgba(23,61,48,0.13)] transition duration-300 hover:-translate-y-0.5 sm:inline-flex lg:px-6"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -223,7 +223,7 @@ const navItems = [
 
           <a
             href="#contact"
-            class="mt-3 flex items-center justify-center gap-2 rounded-full bg-[#173D30] px-5 py-3.5 text-sm font-bold text-white transition hover:bg-[#285442]"
+            class="mt-3 flex items-center justify-center gap-2 rounded-full bg-[#A77943] px-5 py-3.5 text-sm font-bold text-white transition hover:bg-[#285442]"
             @click="activeMenu = false"
           >
             <svg
@@ -419,7 +419,7 @@ const navItems = [
           </p>
           <a
             href="#contact"
-            class="mt-7 inline-flex items-center gap-3 rounded-xl bg-[#294431] px-7 py-4 text-sm font-bold text-white transition hover:bg-[#3B5B40]"
+            class="mt-7 inline-flex items-center gap-3 rounded-xl bg-[#A77943] px-7 py-4 text-sm font-bold text-white transition"
           >
             بیشتر با ما آشنا شو
             <span aria-hidden="true">←</span>

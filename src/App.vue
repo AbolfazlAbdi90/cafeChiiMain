@@ -817,7 +817,7 @@ const navItems = [
           </a>
 
           <a
-            href="https://maps.google.com/"
+            href="https://neshan.org/maps/places/2f1a8f2af8e44e94923646c23bcc4c5e#c35.713-51.362-20z-0p"
             target="_blank"
             rel="noopener noreferrer"
             class="group flex min-h-[100px] items-center gap-4 rounded-xl border border-[#A8B6A3]/40 bg-white/[0.025] px-4 py-4 transition duration-300 hover:border-[#D9BE81]/70 hover:bg-white/[0.05]"
